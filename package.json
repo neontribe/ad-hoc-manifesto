@@ -1,0 +1,22 @@
+{
+  "name": "ad-hoc-manifesto",
+  "version": "1.0.0",
+  "description": "performance =========== This is the repo where myself and Rupert Redington nailed together our keynote for the 2015 http://www.nordevcon.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neontribe/ad-hoc-manifesto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neontribe/ad-hoc-manifesto/issues"
+  },
+  "homepage": "https://github.com/neontribe/ad-hoc-manifesto#readme",
+  "dependencies": {
+    "reveal.js": "^3.3.0"
+  }
+}
