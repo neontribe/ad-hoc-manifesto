@@ -104,7 +104,16 @@ We have, however, come to value processes and tools. Not the heavy-weight UML mo
 
 ## Working software over comprehensive documentation
 
-We've always found it pretty easy to buy into this, so much so that it rapidly becomes a truism, after all, working software is what your sponsors and users want, right?
+We've always found it pretty easy to buy into this, so much so that it rapidly becomes a truism, after all, working software is what your sponsors and users want, right? Deciding whether a piece of software is working or not turns out to be a really problematic area...
+
+![A machine and some people that might be mechanics](images/4639456161-thumb.jpg)
+
+* If you're building a client for an api which doesn't yet exist can you say it is working?
+* If your approach was wrong and you've built an implementation which you intend to discard is that working?
+
+Imagine for a moment that we scrub out "working" and replace it with "useful". Immediately our problems above make more sense.
+
+So, documentation...
 
 | Heresy: Documentation is not a crime against agile. |
 |----- | 
@@ -120,17 +129,6 @@ When they wrote this they weren't talking about the sort of documentation I don'
 ![Overwhelming Specification Mime](images/8725106300-thumb.jpg)
 
 We shouldn't confuse the futility of writing documentation of what software _should_ do with the noble and necessary work of documenting what software does, and how and why it does it. 
-
-Let's focus instead on "Working Software".
-
-Deciding whether a piece of software is working or not turns out to be a really problematic area...
-
-![A machine and some people that might be mechanics](images/4639456161-thumb.jpg)
-
-* If you're building a client for an api which doesn't yet exist can you say it is working?
-* If your approach was wrong and you've built an implementation which you intend to discard is that working?
-
-Imagine for a moment that we scrub out "working" and replace it with "useful". Immediately our problems above make more sense.
 
 So, "Useful software over comprehensive documentation". Good.
 
