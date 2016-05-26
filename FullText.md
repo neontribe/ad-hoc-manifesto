@@ -123,6 +123,8 @@ We've always found it pretty easy to buy into this, so much so that it rapidly b
 * If you're building a client for an api which doesn't yet exist can you say it is working?
 * If your approach was wrong and you've built an implementation which you intend to discard is that working?
 
+What that software is is Fascinating. It's software from which you have learned.
+
 Imagine for a moment that we scrub out "working" and replace it with "useful". Immediately, our problems above make more sense.
 
 So, documentation...
@@ -132,17 +134,15 @@ So, documentation...
 | ![someone making something work...](images/4335376117-thumb.jpg) |
 | We'll gloss over the faith-crimes committed under this tenet, projects with deliberate no-documentation policies, assertions that good test coverage is, in itself superior to documentation simply because it demonstrates working-ness.  |
 
-Let's hurry past the minor sins of omission justified by misreadings of this tenet. Very few people like to write docs, and not as many people read 'em as maybe should. There's a lot of laziness hiding under misreadings of this item.
+Let's hurry past the minor sins of omission justified by misreadings of this tenet. When they wrote this they weren't talking about the sort of documentation I don't write. They were reacting against decades of oppression by overwhelming quantities of up-front specification. Very few people like to write docs, and not as many people read 'em as maybe should. There's a lot of laziness hiding under misreadings of this item.
 
 I/Rupert is guilty as hell. The amount of documentation I, personally, have _not_ written is astonishing. I'm an expert in the field. But I'm not sheltering under this. I'm just an idiot, a short-sighted, lazy idiot.
-
-When they wrote this they weren't talking about the sort of documentation I don't write. They were reacting against decades of oppression by overwhelming quantities of up-front specification.
 
 I/Harry has been guilty as hell. I spent years working for a large US company writing BRDs, and helping write functional specifications. I'd hand them to a development team, over the fence erected between us, and say "How's that, then?". And they'd say something like "Awful." And I'd be sad for a while, assuming it was my fault it was a bad document, and then I'd ask "Have you _ever_ seen a functional spec. that was any good? Because then I could follow its lead..." And they'd say "Nope"... And then I'd feel a little better. It wasn't _entirely_ my fault a long and complex document with many many levels of nested numbered clauses wasn't much use in defining what the sofware should do.
 
 ![Overwhelming Specification Mime](images/8725106300-thumb.jpg)
 
-We shouldn't confuse the futility of writing documentation of what software _should_ do with the noble and necessary work of documenting what software does, and how and why it does it. 
+We shouldn't confuse the futility of writing long and detailed specification of what software _should_ do with the noble and necessary work of documenting what software does, and how and why it does it. 
 
 So, "Useful software over comprehensive documentation". Good.
 
@@ -156,13 +156,9 @@ While we're here lets fix the timing problem which can seduce us into reactionar
 
 We work for a company called Neontribe. It's a commercial company. We have customers. We even like to collaborate with them.  We like to have happy customers. And we don't get them by extensive contract negotiation that defines precisely and in great detail what the software we're building for them should do. 
 
-Our best customer relationships are when we are most closely integrated into the customer. That's the kind of collaboration that works for us. When to the world outside, we are _part_ of our customer's team, not a supplier to them.
+Our best customer relationships are when our team is most closely integrated into the customer. That's the kind of collaboration that works for us. When to the world outside, we are _part_ of our customer's team, not a supplier to them.
 
-However, even then, we're speaking to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. Gaining utility from it. The users. Whether they're a direct source of value; by buying the customers' products, or they're the customers' employees and it's an internal piece of software you're building, they are the source of value for the software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
-
-In order to ensure that user stories are subjected to sufficiently critical thinking I encourage teams to use the variant form:
-
-```As a <user type>, I want <function> so that <benefit> . AMEN " (Anonymous sage 2015)```
+However, even then, we're speaking to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. Gaining utility from it. The users. Whether they're a direct source of value; by buying the customers' products, or they're the customers' employees and it's an internal piece of software you're building, they are the source of value for the software. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
 
 ![happy people](images/16094729617-thumb.jpg)
 
@@ -176,7 +172,7 @@ Our triangle here is between customer - team - user, with those 3 apexes.
 
 Following. Not "being enslaved by..."  or "adhering to in the face of all rational evidence to the contrary", or, indeed "having any semblance of"...
 
-![all gone wrong](images/5527716890-thumb.jpg) 
+![A pirate follows a map, which is a bit like a plan.](images/4153323914-thumb.jpg)
 
 Here's a situation:
 
@@ -184,12 +180,7 @@ There's a feature, and it has a user story, in the conversations which formed th
 
 ![Einstein writes a user story. It's got acceptance criteria.](images/567753250-thumb.jpg)
 
-At this point someone remembers to add some acceptance criteria, or a definition of done, or somesuch. There's an obvious moment of danger here, the story wasn't prescriptive, but it is much easier for prescriptions to creep into acceptance criteria. But it might be that adding the acceptance criteria at all was the danger. It is hard to write good user stories; writing good acceptance criteria is harder still, since they approach functional specification - which as we all know exists in a quantum state fluctuating between impossibility and futility.
-
-| The Heresy Of Laziness As Dogma (redux) |
-| ----- |
-| ![A pirate follows a map, which is a bit like a plan.](images/4153323914-thumb.jpg) |
-| "We don't need a plan. We're agile." Stop it. You are giving us a bad name. :-)  Agile _can_ go on and on without clear end: it needs _more_ discipline and a commitment to manage proactively. What agile give you the Manager is _more_ places to monitor. (Don't tell'em, for heaven's sake.) Smaller steps. More chances to see things aren't right. |
+At this point someone remembers to add some acceptance criteria, or somesuch. There's an obvious moment of danger here, the story wasn't prescriptive, but it is much easier for prescriptions to creep into acceptance criteria. But it might be that adding the acceptance criteria at all was the danger. It is hard to write good user stories; writing good acceptance criteria is harder still, since they approach functional specification - which as we all know exists in a quantum state fluctuating between impossibility and futility.
 
 Next off some development gets done, some snags arise, approaches are attempted and discarded, conversations are had. All good.
 
@@ -203,9 +194,12 @@ What is happening here is a fine example of ritualized "agile" ceremonial.
 
 Envisioning an end state, in this case in the form of acceptance criteria, has contributed this team's return to the false comfort of counter-revolutionary departmentalism. Within the lifespan of this user story there has been a reconstruction of the old scheme -  requirements were gathered, a plan was made (which would have looked very old fashioned if we'd not been distracted by the fact that it omitted every thing between A and Z) and then the work was pushed from analysis, to development to test in a micro-re-enactment of the broken waterfall sausage-factory. The development of the software was driven by documentation... just incomplete documentation.
 
-![best waterfall I can find](images/5196920800-thumb.jpg)
-
 That the testing specialist was unaware of the changing landscape of the story suggests that the team hasn't understood what inter-disciplinary can really mean and is still organizing itself by specialization and processing tasks according to the logic of the waterfall - that one stage cannot begin until a prior one has completed. Imagine that this team had reformed their notion of "working software", that they had set their cap at usefulness rather than compliance. Imagine that they had included the test specialist in all the conversations around the feature. Imagine that the tester had been given the authority their expertees merits, to evaluate the software against the user story without their approach being prescribed by a prior department. Imagine, in fact, that the program of agilism in this team had fully corrected (by which I mean effaced) the uneven power relationships which tend to assert themselves when we relax our vigilance.
+
+| The Heresy Of The Tiny Little Waterfalls|
+| ----- | 
+| ![change can be worrying](images/4678498113-thumb.jpg) |
+| The comversations that leave "agile" as a fractal version of waterfall. A series of very small, badly mapped, waterfalls. That's not _bad_. Well, it's not as bad as really really big waterfalls. But you need to do better. You need to include the _relevant_ people in the team for example, not just you and another dev, and you need to document what you've said somewhere, and if you use "Oh, we're agile we don't do documentation" as an excuse, see above, I will find you, and I will install IE6 as your only browser. I don't think that's unreasonable. |
 
 ![Fidel and Che](images/2635864070-thumb.jpg)
 
@@ -214,11 +208,6 @@ It is worth recalling here that we are reading a manifesto. A properly politcal 
 ![Revolution](images/3427736164-thumb.jpg)
 
 We _think_ we're agile - are we really? The good news is, most of us are a little agile, of only because when your waterfall process goes wrong - all you have left is ruthless focus on the most important things remaining. Most of us do respond to change, because your functional specification will get ripped up when you can feel the winds of deadline rushing past your ears. That's really interesting to me. I don't know about you, but the moments I loved about software development were the best crunches. Absolutely loved them - with the minor caveat that they break you in the end. So when _I_ heard about agile, I looked at it and thought... "Oh, it's crunches but lots of them, and they're all smaller and so less scary. Ace. Sign me up." Get some feedback that needs a change, have a quick chat, get the change in and tested? Great.
-
-| The Heresy Of The Tiny Little Waterfalls|
-| ----- | 
-| ![change can be worrying](images/4678498113-thumb.jpg) |
-| The comversations that leave "agile" as a fractal version of waterfall. A series of very small, badly mapped, waterfalls. That's not _bad_. Well, it's not as bad as really really big waterfalls. But you need to do better. You need to include the _relevant_ people in the team for example, not just you and another dev, and you need to document what you've said somewhere, and if you use "Oh, we're agile we don't do documentation" as an excuse, see above, I will find you, and I will install IE6 as your only browser. I don't think that's unreasonable. |
 
 Taken to a conclusion - Agile is constant upheaval. It's just not good enough to just respond to change, you have to bring it on yourself. 
 
