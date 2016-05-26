@@ -3,7 +3,7 @@
 > "Harry and Rupert present a survey of the cults, sects and heresies they’ve encountered while working with people “doing
 > agile”, culminating in their formulation of a new “ad-hoc” manifesto. Doctrinal purists are invited to be appalled."
 
-Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and there will be heresies.  Actually, you know, there's only one word in there which is actually wrong: "culminating". The fascinating thing about agile practises, or at least one of the many fascinating things, is how many people who practise them have read so little about them. Us, for example. I/Harry was at a session at UKGovcamp the other week - nice unconference, strongly recommended - and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile manifesto.
+Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and there will be heresies. The fascinating thing about agile practises, or at least one of the many fascinating things, is how many people who practise them have read so little about them. Us, for example. I/Harry was at a session at UKGovcamp the other week - nice unconference, strongly recommended - and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile manifesto.
 
 So we could start with a survey, and end with an entirely new manifesto, for sure. However, the more time we spent actually researching what we were going to say, actually looking outside our little bubble of experience, the more we found this.
 
@@ -37,9 +37,13 @@ Set the Manifesto in its history. It is 2001. When people thought of "famous sof
 
 ![MinecraftCarta](images/13508901354-thumb.jpg)
 
-What are the apocrypha? Well, they are those texts which were around at the same time as holy writ, but did not make it in. Like theologians, we - Rupert and Harry - have no direct contact with the writer. In our case, because we haven't bothered to mail them. So we can't know directly why the content of the agile manifesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
+I imagine the actual formulation of the Manifesto as something like the Council of Nicea. (The Councl of Nicea? A fourth century council of bishops who met to work out what Christians should believe; the Nicene Creed. They didn't ship the final version by the end of the council...)
+
+Like theologians, we - Rupert and Harry - have no direct contact with the writers. In our case, because we're too lazy and too shy to mail them. So we can't know directly why the content of the agile manifesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
 
 ![Text? A library](images/4335376117-thumb.jpg)
+
+What, then, are the apocrypha? Well, they are those texts which were around at the same time as holy writ, but did not make it in. 
 
 Extreme programming was two years old.
 
