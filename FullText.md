@@ -104,7 +104,7 @@ An agile team is inter-disciplinary team made out of specialists who have respec
 |  ![Team GB](images/7747526978-thumb.jpg) |
 I'm not even sure this _is_ a heresy, but it bugs the hell out of me. If you have nothing substantive to say in a scrum, say nothing. You don't need to prove you are working, we know that, we trust you and we can see what you're doing on the board. You're part of the team, remember? If you have a blocker, if something is getting in your way, say so. If someone _needs_ to know what you are doing, then holler. But if all you have to say is "I am a productive member of the team." then please - don't worry about it, we know. |
 
-We have, however, come to value some processes and tools. Not the heavy-weight UML modellers that might have been what the prophets were railing against, but some things we've found handy. Stand-ups, prototyping, CLI... "Information radiators", Dashboards. 
+We have, however, come to value some processes and tools. Not the heavy-weight UML modellers that might have been what the prophets were railing against, but some things we've found handy. Stand-ups, prototyping, continuous integration... "Information radiators", Dashboards. 
 
 | The Heresy Of Fetishizing Stationery |
 |----- | 
