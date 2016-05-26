@@ -74,9 +74,9 @@ Let us consider the tenets of this manifesto in turn.
 
 We believe time has moved on since the Manifesto, and that's has made this specific wording less useful, to us at least, than it once was. The difference, we think, here is partly in the mainstreaming of geek culture. 
 
-We suspect the Manifesto was juxtaposing individuals against an industrialised process. Artisan against menial. That's done now, and while we must guard against a return to cube-slavery, it might bring a new threat. 
-
 Within the community, there was not the cult of celebrity around developers there is now. The Cathedral and the Bazaar had only just been written, remember. We didn't have so many devs who cultivated a personal brand... Probably because the world wasn't so small... Social media has a lot to answer for.
+
+We suspect the Manifesto was juxtaposing individuals against an industrialised process. Artisan against menial. That's done now, and while we must guard against a return to cube-slavery, it might bring a new threat. 
 
 The flip side (dark side?) the cult of individual brings with it is the glorification of individual effort over the work of teams. The cult of the rockstar developer. Later on we'll talk about collaboration, but it crops up here too. The opposite of individual isn't necessarily only slave, but also team member. For us there's a triangle there: individual, team member, slave at each apex.
 
