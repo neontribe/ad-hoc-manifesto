@@ -59,10 +59,10 @@ Extreme programming was two years old. This fine conference had run. Once.
 
 Scrum was fifteen years old. (Yes, we were surprised too. The word itself was six or seven years old.)
 
-| A Heresy: Scrum is a lousy metaphor. |
+| The Stupid Name Heresy |
 |----- |
 | ![Lego Scrum](images/scrum-thumb.jpg) |
-| A scrum is two packs, two groups of people, colliding and attempting to push each other backwards. That is not a good metaphor for constructive engagement. Turns out before then it was "rugby", and oh lord is that better... |
+| A scrum is two packs, two groups of eight people, colliding with force and attempting to push each other backwards. That is not a good metaphor for constructive engagement. Turns out before then it was "rugby", and oh lord is that better... |
 
 However, through a process that I imagine to be led by the wisdom of the prophets calling in the wilderness, a set of tenets was fashioned out of the competing visions of perfection. I imagine - perhaps wrongly - a scene with one of the prophets taking a sharpie to a draft copy late one night and no-one noticing it get to the final version without challenge.
 
@@ -92,25 +92,25 @@ There's an interesting parallel here with external consultants, we think, valued
 
 Otherwise you lose the team ethos and shared responsibility that we believe delivers good software.
 
-| Heresy: 3 front-end devs, 2 back-end and a delivery manager please. |
+| The Heresy Of Body Shopping |
 | ----- | 
 | ![Team GB](images/7747525828-thumb.jpg) |
-| You can't body-shop an agile team. You recuit by skills, sure. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised. A team is not a collection of individuals. |
+| AKA "3 front-end devs, 2 back-end and a delivery manager please." You can't body-shop an agile team. You recuit by skills, sure. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised. A team is not a collection of individuals. |
 
 An agile team is inter-disciplinary team made out of specialists who have respect for other members, and don't assume others' jobs are easy. Human interactions are so complex than you have to make allowances for each other. Keeping that team ethos is hindered by technological tools of communications and.or pointless adherence to process that can get in the way to such a degree that nobody gives their anyone their full attention ever. Keeping that team ethos together when you're remote is still harder. 
 
-| Heresy: Please, for the love of god, shut up. |
+| The Heresy Of Oversharing In Standups |
 | ----- | 
 |  ![Team GB](images/7747526978-thumb.jpg) |
 I'm not even sure this _is_ a heresy, but it bugs the hell out of me. If you have nothing substantive to say in a scrum, say nothing. You don't need to prove you are working, we know that, we trust you and we can see what you're doing on the board. You're part of the team, remember? If you have a blocker, if something is getting in your way, say so. If someone _needs_ to know what you are doing, then holler. But if all you have to say is "I am a productive member of the team." then please - don't worry about it, we know. |
 
 We have, however, come to value some processes and tools. Not the heavy-weight UML modellers that might have been what the prophets were railing against, but some things we've found handy. Stand-ups, prototyping, CLI... "Information radiators", Dashboards. 
 
-| Heresy: Post-it (tm) notes not a panacea. |
+| The Heresy Of Fetishizing Stationery |
 |----- | 
 | ![another witch burning](images/6291267341-thumb.jpg)
 | This will have me burnt. |
-| ...have any of you ever seen a post-it note leaving the office on someone's shoe? Yes. That. You know, Post-it (tm) notes are not even _mentioned_ in the Agile manifesto?|
+| Post-it (tm) notes not a panacea. ...have any of you ever seen a post-it note leaving the office on someone's shoe? Yes. That. You know, Post-it (tm) notes are not even _mentioned_ in the Agile manifesto?|
 
 ### So we'd replace "Individuals and" with "team" - we value "Team interactions over processes and tools"
 
@@ -127,7 +127,7 @@ Imagine for a moment that we scrub out "working" and replace it with "useful". I
 
 So, documentation...
 
-| Heresy: Documentation is not a crime against agile. |
+| The Heresy Of Laziness As A Dogma |
 |----- | 
 | ![someone making something work...](images/4335376117-thumb.jpg) |
 | We'll gloss over the faith-crimes committed under this tenet, projects with deliberate no-documentation policies, assertions that good test coverage is, in itself superior to documentation simply because it demonstrates working-ness.  |
@@ -186,10 +186,10 @@ There's a feature, and it has a user story, in the conversations which formed th
 
 At this point someone remembers to add some acceptance criteria, or a definition of done, or somesuch. There's an obvious moment of danger here, the story wasn't prescriptive, but it is much easier for prescriptions to creep into acceptance criteria. But it might be that adding the acceptance criteria at all was the danger. It is hard to write good user stories; writing good acceptance criteria is harder still, since they approach functional specification - which as we all know exists in a quantum state fluctuating between impossibility and futility.
 
-| Heresy: We don't need a plan. We're agile. |
+| The Heresy Of Laziness As Dogma (redux) |
 | ----- |
 | ![A pirate follows a map, which is a bit like a plan.](images/4153323914-thumb.jpg) |
-| You are giving us a bad name. :-) Stop it. Agile _can_ go on and on without clear end: it needs _more_ discipline and a commitment to manage proactively. What agile give you the Manager is _more_ places to monitor. (Don't tell'em, for heaven's sake.) Smaller steps. More chances to see things aren't right. |
+| "We don't need a plan. We're agile." Stop it. You are giving us a bad name. :-)  Agile _can_ go on and on without clear end: it needs _more_ discipline and a commitment to manage proactively. What agile give you the Manager is _more_ places to monitor. (Don't tell'em, for heaven's sake.) Smaller steps. More chances to see things aren't right. |
 
 Next off some development gets done, some snags arise, approaches are attempted and discarded, conversations are had. All good.
 
@@ -215,10 +215,10 @@ It is worth recalling here that we are reading a manifesto. A properly politcal 
 
 We _think_ we're agile - are we really? The good news is, most of us are a little agile, of only because when your waterfall process goes wrong - all you have left is ruthless focus on the most important things remaining. Most of us do respond to change, because your functional specification will get ripped up when you can feel the winds of deadline rushing past your ears. That's really interesting to me. I don't know about you, but the moments I loved about software development were the best crunches. Absolutely loved them - with the minor caveat that they break you in the end. So when _I_ heard about agile, I looked at it and thought... "Oh, it's crunches but lots of them, and they're all smaller and so less scary. Ace. Sign me up." Get some feedback that needs a change, have a quick chat, get the change in and tested? Great.
 
-| Heresy: Those conversations that aren't. |
+| The Heresy Of The Tiny Little Waterfalls|
 | ----- | 
 | ![change can be worrying](images/4678498113-thumb.jpg) |
-| The ones that leave "agile" as a fractal version of waterfall. A series of very small, badly mapped, waterfalls. That's not _bad_. Well, it's not as bad as really really big waterfalls. But you need to do better. You need to include the _relevant_ people in the team for example, not just you and another dev, and you need to document what you've said somewhere, and if you use "Oh, we're agile we don't do documentation" as an excuse, I will find you, and I will install IE6 as your only browser. I don't think that's unreasonable. |
+| The comversations that leave "agile" as a fractal version of waterfall. A series of very small, badly mapped, waterfalls. That's not _bad_. Well, it's not as bad as really really big waterfalls. But you need to do better. You need to include the _relevant_ people in the team for example, not just you and another dev, and you need to document what you've said somewhere, and if you use "Oh, we're agile we don't do documentation" as an excuse, see above, I will find you, and I will install IE6 as your only browser. I don't think that's unreasonable. |
 
 Taken to a conclusion - Agile is constant upheaval. It's just not good enough to just respond to change, you have to bring it on yourself. 
 
