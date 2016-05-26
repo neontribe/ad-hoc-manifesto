@@ -150,7 +150,6 @@ While we're here lets fix the timing problem which can seduce us into reactionar
 
 ### "Useful software _before_ comprehensive documentation". Right.
 
-
 ## Customer collaboration over contract negotiation
 
 ![a meeting gone bad, document being negotiated](images/5873697252-thumb.jpg)
@@ -223,8 +222,6 @@ We _think_ we're agile - are we really? The good news is, most of us are a littl
 
 Taken to a conclusion - Agile is constant upheaval. It's just not good enough to just respond to change, you have to bring it on yourself. 
 
-You have a "definition of done"? You're screwed. Just the word "done". Definition of done limits continual improvement that makes great software (And I nearly wrote great user experience there...) . You are never done. You've just shipped today's best guess, well tested. (You did test everything you shipped, right?) Look, if you want to be "done" have you considered an alternative career? Cabinet maker, maybe? Or possibly a different century? Find a better word for done.
-
 That's it for me. Recognising the absolute inevitability of change, and not just responding to it, but embracing it.
 
 ### We'd replace "Responding to" with "Embracing", we value "Embracing change over following a plan."
@@ -235,16 +232,18 @@ Here we are at the end of a journey of sorts.
 
 ![Darth Vader relaxing on a sofa.](images/14626340083-thumb.jpg)
 
-We aimed at a new manifesto, we aimed to poke fun at sects and heretics and the fuddy-duddy aged, the set in their ways, the defenders of cant and ossifised process masquerading as agility. The Cargo Cultists. And we have done that a little. But... We were missing the point. When we critically examined the original doctrine, we found what we had expected to rail against just wasn't there. Our solid complaints turned out to be our misconceptions. Damnit, I might even get me one of theose scrum mast er certificates. What we actually found is that try as you might: it's a damned good thing, is the Agile Manifesto. Maybe a tweak or two. Or four, as we've tried for for reasons of neatness really. Oh, and cheap rhetorical flourish, of course. But it's a damned good thing, and if you check back against it often, you'll be OK.
+We aimed at a new manifesto, we aimed to poke fun at sects and heretics, the set in their ways, the defenders of cant and ossifised process masquerading as agility. The Cargo Cultists. And we have done that a little. But... We were missing the point. When we critically examined the original doctrine, we found what we had expected to rail against just wasn't there. Our solid complaints turned out to be our misconceptions.
 
-A manifesto for our software development.
+What we actually found is that try as you might to critique it: it's a damned good thing, is the Agile Manifesto. Maybe a tweak or two. Or four, as we've tried to do, really for for reasons of neatness. Oh, and cheap rhetorical flourish, of course. But it's a damned good thing, and if you check back against it and its principles often, you'll be OK. Re-read it. 
+
+Our manifesto for our software development.
 
 * Team interactions over processes and tools
 * Useful software _before_ comprehensive documentation
 * Collaborative delivery over contract negotiation. 
 * Embracing change over following a plan.
 
-If we have any wisdom at all, any slight heresy to proclaim as new orthodoxy, then it is these two:
+If we have any wisdom at all, any slight heresy to proclaim as new orthodoxy, then it is these two things:
 
 ![clone in chains](images/4368389868-thumb.jpg)
 
@@ -254,7 +253,7 @@ Retain humanity (Remember you serve your software's users as well as your custom
 
 Distribute power, don't re-position it. (Remember not to swop the tyranny of process, for the tyranny of individualism. Remember you are part of a team, you are not a rockstar.)
 
-If you can balance those, then you're doing very well indeed.
+If you can balance those, then you're doing very well indeed. Better than @harryharrold, better than @rupertredington, and as good as @neontribe at its best.
 
-And always, always, return to the source. Critically re-examine it, re-emphasize it, if you wish. Do not treat it as an orthodoxy, for it is not. We've binned our efforts at creating a new manifesto, and suggest you do too.
+And always, always, return to the source. Critically re-examine it, re-emphasize it, if you wish. Do not treat it as an orthodoxy, for it is not. We've binned our efforts at creating a new manifesto, and suggest you do too, because it will always come back.
 
