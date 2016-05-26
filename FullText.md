@@ -41,9 +41,9 @@ Let us the Manifesto in its history. It is 2001. When people thought of "famous 
 
 In 2001 there was no Minecraft, there was no Big Bang Theory, no IT Crowd. I'll say that again. [A world before the IT Crowd.](https://www.youtube.com/user/ITCrowdChannel) People didn't _really_ make multi-mega-movies based on computer games.
 
-I imagine the actual formulation of the Manifesto as something like the Council of Nicea. (The Council of Nicea? A fourth century council of bishops who met to work out what Christians should believe; the Nicene Creed. They didn't ship the final version by the end of the council...)
-
 Like theologians, we - Rupert and Harry - have no direct contact with the writers. In our case, because we're too lazy and too shy to mail them. So we can't know directly why the content of the agile manifesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
+
+I imagine the actual formulation of the Manifesto as something like the Council of Nicea. (The Council of Nicea? A fourth century council of bishops who met to work out what Christians should believe; the Nicene Creed. They didn't ship the final version by the end of the council...)
 
 ![Text? A library](images/4335376117-thumb.jpg)
 
