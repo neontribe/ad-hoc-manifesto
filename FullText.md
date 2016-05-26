@@ -5,19 +5,21 @@
 
 Yeah. Seemed like a great precis for a keynote did that, six months or so ago. And we are still going to do that: or at least there will be cults, there will be sects and there will be heresies. The fascinating thing about agile practises, or at least one of the many fascinating things, is how many people who practise them have read so little about them. Us, for example. I/Harry was at a session at UKGovcamp the other week - nice unconference, strongly recommended - and there was a session called "Agile sucks". The majority of people there - myself included - couldn't tell you how many tenets there were in the agile manifesto.
 
-So we could start with a survey, and end with an entirely new manifesto, for sure. However, the more time we spent actually researching what we were going to say, actually looking outside our little bubble of experience, the more we found this.
+So, then we started to research various cults and sects and heresies, and found that other people had done that too. I'd noticed, for example, that some agile practises - like, real world practises - resembled pretty much the Cargo Cults of Polynesia. I found Liz Keogh (@lunivore) had done that precise blog post. Better. [Seven years ago.]( https://lizkeogh.com/2009/05/22/cargo-cults-and-agile-values/)
+
+So we could start with that survey, and end with an entirely new manifesto, for sure. However, the more time we spent actually researching what we were going to say, actually looking outside our little bubble of experience, the more we found this.
 
 ## The agile manifesto rocks.
 
 ![a rock band](images/15575226235-thumb.jpg)
 
-I mean, it rocks, it really does. It's ace. You need to go back and read it. 
+I mean, it rocks, it really does. It's ace. You need to go back and read it. And the Principles too.
 
-We could stop there, but it'd seem a bit of a cop out. Hagiography isn't really my thing, and we given we disciples promise to question, criticise and iterate we'd be letting the prophets down if we didn't. So here goes. A new precis.
+We could stop there, but it'd seem a bit of a cop out. Hagiography isn't really my thing, and we given we disciples promise to question, critique and iterate we'd be letting the prophets down if we didn't. So here goes. A new precis.
 
 > "Harry and Rupert critically re-examine the agile manifesto in the light of their working with people “doing agile”,
-> vaguely alluding to the cults, sects and heresies they’ve encountered and mostly dodging the responsibility of formulating
-> a new “ad-hoc” manifesto."
+> vaguely alluding to the cults, sects and heresies they’ve encountered and being guilty of themeselves and dodge the responsibility 
+> of formulating a new “ad-hoc” manifesto, instead iterating the original. A bit."
 
 ![A Witch-burning](images/4436279464-thumb.jpg)
 
@@ -33,23 +35,27 @@ Obviously.
 
 ![it's an engineer. IT is happening](images/6833649749-thumb.jpg)
 
-Set the Manifesto in its history. It is 2001. When people thought of "famous software engineer", they probably thought "Bill Gates". Maybe Linus Torvalds, [if they read Time magazine.](http://web.archive.org/web/20070109132858/http://www.time.com/time/time100/poc/century.html) In 2001 there was no Minecraft, there was no Big Bang Theory, no IT Crowd. I'll say that again. [A world before the IT Crowd.](https://www.youtube.com/user/ITCrowdChannel)
+Let us the Manifesto in its history. It is 2001. When people thought of "famous software engineer", they probably thought "Bill Gates". Maybe Linus Torvalds, [if they read Time magazine.](http://web.archive.org/web/20070109132858/http://www.time.com/time/time100/poc/century.html) 
 
 ![MinecraftCarta](images/13508901354-thumb.jpg)
 
-I imagine the actual formulation of the Manifesto as something like the Council of Nicea. (The Councl of Nicea? A fourth century council of bishops who met to work out what Christians should believe; the Nicene Creed. They didn't ship the final version by the end of the council...)
+In 2001 there was no Minecraft, there was no Big Bang Theory, no IT Crowd. I'll say that again. [A world before the IT Crowd.](https://www.youtube.com/user/ITCrowdChannel) People didn't _really_ make multi-mega-movies based on computer games.
+
+I imagine the actual formulation of the Manifesto as something like the Council of Nicea. (The Council of Nicea? A fourth century council of bishops who met to work out what Christians should believe; the Nicene Creed. They didn't ship the final version by the end of the council...)
 
 Like theologians, we - Rupert and Harry - have no direct contact with the writers. In our case, because we're too lazy and too shy to mail them. So we can't know directly why the content of the agile manifesto is as it is, but we can attempt an analysis, using the tools of literary criticism, and guesswork.
 
 ![Text? A library](images/4335376117-thumb.jpg)
 
-What, then, are the apocrypha? Well, they are those texts which were around at the same time as holy writ, but did not make it in. 
+What, then, are the apocrypha? Well, they are those texts and practises which were around at the same time as holy writ, but did not make it in. 
 
-Extreme programming was two years old.
+The essay [cathedral and bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/) by Eric S. Raymond was four.
 
 The [Psychology of Computer Programming](http://www.amazon.co.uk/The-Psychology-Computer-Programming-Anniversary/dp/0932633420) by Gerald Weinburg was already 30. (Go read that. His concept of ego-less programming is ace.)
 
-The essay [cathedral and bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/) by Eric S. Raymond was four.
+Post-it (tm) notes were 24 years old! Invented bySpencer Silver of 3M, launched in 1977...
+
+Extreme programming was two years old. This fine conference had run. Once.
 
 Scrum was fifteen years old. (Yes, we were surprised too. The word itself was six or seven years old.)
 
@@ -58,15 +64,19 @@ Scrum was fifteen years old. (Yes, we were surprised too. The word itself was si
 | ![Lego Scrum](images/scrum-thumb.jpg) |
 | A scrum is two packs, two groups of people, colliding and attempting to push each other backwards. That is not a good metaphor for constructive engagement. Turns out before then it was "rugby", and oh lord is that better... |
 
+However, through a process that I imagine to be led by the wisdom of the prophets calling in the wilderness, a set of tenets was fashioned out of the competing visions of perfection. I imagine - perhaps wrongly - a scene with one of the prophets taking a sharpie to a draft copy late one night and no-one noticing it get to the final version without challenge.
+
+Let us consider the tenets of this manifesto in turn.
+
 ## Individuals and interactions over processes and tools
 
 ![clone army](images/6182784051-thumb.jpg)
 
 We believe time has moved on since the Manifesto, and that's has made this specific wording less useful, to us at least, than it once was. The difference, we think, here is partly in the mainstreaming of geek culture. 
 
-Within the community, there was not the cult of celebrity around developers there is now. The Cathedral and the Bazaar had just been written, remember. We didn't have so many devs who cultivated a personal brand... Probably because the world wasn't so small... Social media has a lot to answer for.
-
 We suspect the Manifesto was juxtaposing individuals against an industrialised process. Artisan against menial. That's done now, and while we must guard against a return to cube-slavery, it might bring a new threat. 
+
+Within the community, there was not the cult of celebrity around developers there is now. The Cathedral and the Bazaar had only just been written, remember. We didn't have so many devs who cultivated a personal brand... Probably because the world wasn't so small... Social media has a lot to answer for.
 
 The flip side (dark side?) the cult of individual brings with it is the glorification of individual effort over the work of teams. The cult of the rockstar developer. Later on we'll talk about collaboration, but it crops up here too. The opposite of individual isn't necessarily only slave, but also team member. For us there's a triangle there: individual, team member, slave at each apex.
 
@@ -78,31 +88,29 @@ But it's our assertion that reducing a team member to an individual does the sam
 
 ![Boba Fett. Not a team player](images/5354781759-thumb.jpg)
 
-There's an interesting parallel here with external consultants, we think, valued for their specific skills, not for fulfilling a "role on the team". That occasional import of expertise. The danger is that such expertise is valued purely because it is external. Obviously, this is an odd place for us to explore, because we're often just such consultants. if your consultants do not tread gently around your internal teams, do not respect the skills of others already there, if there's any part of the team's endeavour which is "beneath them", then you want to get different consultants. Yes, you have only a sporadic requirement for some skills, but the people who provide them need to be on the team too. They need to be able to shift their weight when demand changes.  
+There's an interesting parallel here with external consultants, we think, valued for their specific skills, rather than for fulfilling a "role on the team". That occasional import of expertise. The danger is that such expertise is valued purely because it is external. Obviously, this is an odd place for us to explore, because we're often just such consultants. However, if your consultants do not tread gently around your internal teams, do not respect the skills of others already there, if there's any part of the team's endeavour which is "beneath them", then you want to get different consultants. Yes, you have only a sporadic requirement for some skills, but the people who provide them need to be on the team too. They need to be able to shift their weight when demand changes.  
 
-Otherwise you lose the team ethos and shared responsibility that makes good software.
+Otherwise you lose the team ethos and shared responsibility that we believe delivers good software.
 
 | Heresy: 3 front-end devs, 2 back-end and a delivery manager please. |
 | ----- | 
 | ![Team GB](images/7747525828-thumb.jpg) |
-| You can't body-shop an agile team. You recuit by skills, sure. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised." A team is not a collection of individuals. |
+| You can't body-shop an agile team. You recuit by skills, sure. The idea of "inter-disciplinary team" assumes there are disciplines to be inter. However, if you don't bear in mind the difficulty of team-building, your agility will be compromised. A team is not a collection of individuals. |
 
-
-An agile team is inter-disciplinary team made out of specialists who have respect for other members, don't assume others' jobs are easy. Human interactions are so complex than you have to make allowances for each other. Keeping that team ethos is hindered by technological tools of communications that intermediate such that nobody gives their anyone their full attention. Keeping that team ethos together when you're remote is difficult, but it's not impossible. It's hindered by pointless adherence to process too. 
-
+An agile team is inter-disciplinary team made out of specialists who have respect for other members, and don't assume others' jobs are easy. Human interactions are so complex than you have to make allowances for each other. Keeping that team ethos is hindered by technological tools of communications and.or pointless adherence to process that can get in the way to such a degree that nobody gives their anyone their full attention ever. Keeping that team ethos together when you're remote is still harder. 
 
 | Heresy: Please, for the love of god, shut up. |
 | ----- | 
 |  ![Team GB](images/7747526978-thumb.jpg) |
-I'm not even sure this _is_ a heresy, but it bugs the hell out of me. If you have nothing substantive to say in a scrum, say nothing. You don't need to prove you are working, we know that, we trust you and we can see what you're doing on the board. If you have a blocker, if something is getting in your way, say so. If someone _needs_ to know what you are doing, then holler. But if all you have to say is "I am a productive member of the team." then please - don't worry about it, we know. |
+I'm not even sure this _is_ a heresy, but it bugs the hell out of me. If you have nothing substantive to say in a scrum, say nothing. You don't need to prove you are working, we know that, we trust you and we can see what you're doing on the board. You're part of the team, remember? If you have a blocker, if something is getting in your way, say so. If someone _needs_ to know what you are doing, then holler. But if all you have to say is "I am a productive member of the team." then please - don't worry about it, we know. |
 
-We have, however, come to value processes and tools. Not the heavy-weight UML modellers that might have been what the prophets were railing against, but some things we've found handy. Stand-ups, prototyping, CLI... "Information radiators" Dashboards. 
+We have, however, come to value some processes and tools. Not the heavy-weight UML modellers that might have been what the prophets were railing against, but some things we've found handy. Stand-ups, prototyping, CLI... "Information radiators", Dashboards. 
 
 | Heresy: Post-it (tm) notes not a panacea. |
 |----- | 
 | ![another witch burning](images/6291267341-thumb.jpg)
 | This will have me burnt. |
-| ...have any of you ever seen a post-it note leaving the office on someone's shoe? Yes. That. |
+| ...have any of you ever seen a post-it note leaving the office on someone's shoe? Yes. That. You know, Post-it (tm) notes are not even _mentioned_ in the Agile manifesto?|
 
 ### So we'd replace "Individuals and" with "team" - we value "Team interactions over processes and tools"
 
@@ -115,7 +123,7 @@ We've always found it pretty easy to buy into this, so much so that it rapidly b
 * If you're building a client for an api which doesn't yet exist can you say it is working?
 * If your approach was wrong and you've built an implementation which you intend to discard is that working?
 
-Imagine for a moment that we scrub out "working" and replace it with "useful". Immediately our problems above make more sense.
+Imagine for a moment that we scrub out "working" and replace it with "useful". Immediately, our problems above make more sense.
 
 So, documentation...
 
@@ -124,11 +132,13 @@ So, documentation...
 | ![someone making something work...](images/4335376117-thumb.jpg) |
 | We'll gloss over the faith-crimes committed under this tenet, projects with deliberate no-documentation policies, assertions that good test coverage is, in itself superior to documentation simply because it demonstrates working-ness.  |
 
-Let's hurry past the minor sins of omission justified by misreadings of this article. Very few people like to write docs, and not as many people read 'em as maybe should. There's a lot of laziness hiding under misreadings of this item.
+Let's hurry past the minor sins of omission justified by misreadings of this tenet. Very few people like to write docs, and not as many people read 'em as maybe should. There's a lot of laziness hiding under misreadings of this item.
 
 I/Rupert is guilty as hell. The amount of documentation I, personally, have _not_ written is astonishing. I'm an expert in the field. But I'm not sheltering under this. I'm just an idiot, a short-sighted, lazy idiot.
 
 When they wrote this they weren't talking about the sort of documentation I don't write. They were reacting against decades of oppression by overwhelming quantities of up-front specification.
+
+I/Harry has been guilty as hell. I spent years working for a large US company writing BRDs, and helping write functional specifications. I'd hand them to a development team, over the fence erected between us, and say "How's that, then?". And they'd say something like "Awful." And I'd be sad for a while, assuming it was my fault it was a bad document, and then I'd ask "Have you _ever_ seen a functional spec. that was any good? Because then I could follow its lead..." And they'd say "Nope"... And then I'd feel a little better. It wasn't _entirely_ my fault a long and complex document with many many levels of nested numbered clauses wasn't much use in defining what the sofware should do.
 
 ![Overwhelming Specification Mime](images/8725106300-thumb.jpg)
 
@@ -145,11 +155,11 @@ While we're here lets fix the timing problem which can seduce us into reactionar
 
 ![a meeting gone bad, document being negotiated](images/5873697252-thumb.jpg)
 
-We're a commercial company. We have customers. We like to have happy customers. And we don't get them by contract negotiation. We even like to collaborate with them. 
+We work for a company called Neontribe. It's a commercial company. We have customers. We even like to collaborate with them.  We like to have happy customers. And we don't get them by extensive contract negotiation that defines precisely and in great detail what the software we're building for them should do. 
 
-It doesn't even articulate the complexity within a customer organisation: within the customers' departments, their internal politics, their varied opinions. Even within a "customer" organisation, you are in a multi-party world. If you squint, and you are an external agency, and you have a strong product owner in the customer it's close. Maybe it's simply that, actually. maybe it's the sordid commercial accent on customer, and those in that world have a more sophisticated view of what a customer might be than we do. It's that assumption of supplierness where many more business are now than were in 2001 beginning to  understand themselves as software companies: as providers of computerised interfaces to other organisations.
+Our best customer relationships are when we are most closely integrated into the customer. That's the kind of collaboration that works for us. When to the world outside, we are _part_ of our customer's team, not a supplier to them.
 
-However, it still talks to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. The users. Whether they're direct source; by buying your customers' products, or their your customers employees and it's an internal piece of software you're building, they are the source of value for the software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
+However, even then, we're speaking to a bipartite relationship. That's not good enough because it misses out the most important people. The people who will end up using the software you're building. Gaining utility from it. The users. Whether they're a direct source of value; by buying the customers' products, or they're the customers' employees and it's an internal piece of software you're building, they are the source of value for the software you're building. I mean, we are not the first people to trip over the lack of the word "user" in the agile manifesto, nor will we be the last, so this seems a small change but it's worth it, for us. 
 
 In order to ensure that user stories are subjected to sufficiently critical thinking I encourage teams to use the variant form:
 
@@ -157,9 +167,9 @@ In order to ensure that user stories are subjected to sufficiently critical thin
 
 ![happy people](images/16094729617-thumb.jpg)
 
-It's not that we _don't_ value collaboration with the customer, and we absolutely, definitely value it over contract negotiation. But we _also_ value collaboration with  other folk - specifically, with the people who will use our software. Users. 
+It's not that we _don't_ value collaboration with the customer. We absolutely do, and as deep as possible, and we absolutely, definitely value it over contract negotiation. But we _also_ value collaboration with  other folk. Specifically, with the people who will use the software. Users. 
 
-Our triangle here is between customer - team - user, with those 2 apexes. We find our best work where we're closest to the middle of that triangle.
+Our triangle here is between customer - team - user, with those 3 apexes. 
 
 ### We value collaborative delivery over contract negotiation. 
 
