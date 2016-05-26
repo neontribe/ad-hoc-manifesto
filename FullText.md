@@ -194,7 +194,7 @@ What is happening here is a fine example of ritualized "agile" ceremonial.
 
 Envisioning an end state, in this case in the form of acceptance criteria, has contributed this team's return to the false comfort of counter-revolutionary departmentalism. Within the lifespan of this user story there has been a reconstruction of the old scheme -  requirements were gathered, a plan was made (which would have looked very old fashioned if we'd not been distracted by the fact that it omitted every thing between A and Z) and then the work was pushed from analysis, to development to test in a micro-re-enactment of the broken waterfall sausage-factory. The development of the software was driven by documentation... just incomplete documentation.
 
-That the testing specialist was unaware of the changing landscape of the story suggests that the team hasn't understood what inter-disciplinary can really mean and is still organizing itself by specialization and processing tasks according to the logic of the waterfall - that one stage cannot begin until a prior one has completed. Imagine that this team had reformed their notion of "working software", that they had set their cap at usefulness rather than compliance. Imagine that they had included the test specialist in all the conversations around the feature. Imagine that the tester had been given the authority their expertees merits, to evaluate the software against the user story without their approach being prescribed by a prior department. Imagine, in fact, that the program of agilism in this team had fully corrected (by which I mean effaced) the uneven power relationships which tend to assert themselves when we relax our vigilance.
+That the testing specialist was unaware of the changing landscape of the story suggests that the team hasn't understood what inter-disciplinary can really mean and is still organizing itself by specialization and processing tasks according to the logic of the waterfall - that one stage cannot begin until a prior one has completed. 
 
 | The Heresy Of The Tiny Little Waterfalls|
 | ----- | 
@@ -202,6 +202,8 @@ That the testing specialist was unaware of the changing landscape of the story s
 | The comversations that leave "agile" as a fractal version of waterfall. A series of very small, badly mapped, waterfalls. That's not _bad_. Well, it's not as bad as really really big waterfalls. But you need to do better. You need to include the _relevant_ people in the team for example, not just you and another dev, and you need to document what you've said somewhere, and if you use "Oh, we're agile we don't do documentation" as an excuse, see above, I will find you, and I will install IE6 as your only browser. I don't think that's unreasonable. |
 
 ![Fidel and Che](images/2635864070-thumb.jpg)
+
+Imagine that this team had reformed their notion of "working software", that they had set their cap at usefulness rather than compliance. Imagine that they had included the test specialist in all the conversations around the feature. Imagine that the tester had been given the authority their expertees merits, to evaluate the software against the user story without their approach being prescribed by a prior department. Imagine, in fact, that the program of agilism in this team had fully corrected (by which I mean effaced) the uneven power relationships which tend to assert themselves when we relax our vigilance.
 
 It is worth recalling here that we are reading a manifesto. A properly politcal document which aims at fomenting kaizen-revolution. A process which is necessarily incomplete if vestiges of old-think are allowed to shelter underneath rituals and mystifications. 
 
@@ -221,28 +223,33 @@ Here we are at the end of a journey of sorts.
 
 ![Darth Vader relaxing on a sofa.](images/14626340083-thumb.jpg)
 
-We aimed at a new manifesto, we aimed to poke fun at sects and heretics, the set in their ways, the defenders of cant and ossifised process masquerading as agility. The Cargo Cultists. And we have done that a little. But... We were missing the point. When we critically examined the original doctrine, we found what we had expected to rail against just wasn't there. Our solid complaints turned out to be our misconceptions.
+We aimed at a new manifesto, we aimed to poke fun at sects and heretics, the set in their ways, the defenders of cant and ossifised process masquerading as agility. We have found out we're nowhere near as good as we thought we were. 
 
-What we actually found is that try as you might to critique it: it's a damned good thing, is the Agile Manifesto. Maybe a tweak or two. Or four, as we've tried to do, really for for reasons of neatness. Oh, and cheap rhetorical flourish, of course. But it's a damned good thing, and if you check back against it and its principles often, you'll be OK. Re-read it. 
+But... We were missing the point. When we critically examined the original doctrine, we found what we had expected to rail against just wasn't there. Our solid complaints turned out to be our misconceptions.
+
+What we actually found is that try as you might to critique it: it's a damned good thing, is the Agile Manifesto. Maybe a tweak or two. Or four, as we've tried to do, really for for reasons of neatness. Oh, and cheap rhetorical flourish, of course. But it's a damned good thing, and if you check back against it and its principles often, you'll be OK. 
 
 Our manifesto for our software development.
 
 * Team interactions over processes and tools
 * Useful software _before_ comprehensive documentation
 * Collaborative delivery over contract negotiation. 
+* Something something something users
 * Embracing change over following a plan.
 
 If we have any wisdom at all, any slight heresy to proclaim as new orthodoxy, then it is these two things:
 
-![clone in chains](images/4368389868-thumb.jpg)
+![everything is awesome](images/12798129015-thumb.jpg)
 
 Retain humanity (Remember you serve your software's users as well as your customer...)
 
-![everything is awesome](images/12798129015-thumb.jpg)
-
 Distribute power, don't re-position it. (Remember not to swop the tyranny of process, for the tyranny of individualism. Remember you are part of a team, you are not a rockstar.)
 
-If you can balance those, then you're doing very well indeed. Better than @harryharrold, better than @rupertredington, and as good as @neontribe at its best.
+If you can balance those, then you're doing very well indeed. You'll be some sort of travelling monk guru thing.
+
+![clone in chains](images/4368389868-thumb.jpg)
+
+Better than @harryharrold, better than @rupertredington, and as good as @neontribe at its best.
 
 And always, always, return to the source. Critically re-examine it, re-emphasize it, if you wish. Do not treat it as an orthodoxy, for it is not. We've binned our efforts at creating a new manifesto, and suggest you do too, because it will always come back.
 
