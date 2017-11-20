@@ -1,5 +1,8 @@
 Agile apocrypha and an ad-hoc manifesto - XP-2016
 ===========
+
+*coming soon* Agile Tour Vienna - 2017
+
 This is the repo where myself and Rupert Redington nailed together our keynote "Agile apocrypha and an ad-hoc manifesto" at XP-2016
 
 It's based on material we presented at Nordevcon 2015, which is kicking around at https://github.com/harryharrold/performance
