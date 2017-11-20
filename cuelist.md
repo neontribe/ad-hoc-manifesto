@@ -1,7 +1,6 @@
 On Screen | Postit | The point |Key
 ----------|--------|-----------|---
-![american idol](images/8412030049-thumb.jpg)||Setup - no mimes|1
-Opening slide || We thought we could knock it but we can't|2
+
 ![a rock band](images/15575226235-thumb.jpg)|| It rocks, go back and read it|3
  |The new plan |  question criticize and iterate|
 ![A Witch-burning](images/4436279464-thumb.jpg) || Doctrinal purists are still invited to be appalled.|4
@@ -35,7 +34,7 @@ Opening slide || We thought we could knock it but we can't|2
 ![A machine and some people that might be mechanics](images/4639456161-thumb.jpg)| Working Software | sockets without plugs and failed experiments | U
  |A client for an imaginary API||
  |Discarded Experiments||
- |*Useful* software over comprehensive documentation|| 
+ |*Useful* software over comprehensive documentation||
  |*Useful* software *before* comprehensive documentation|Remove the hiding place of laziness|
  ![a meeting gone bad, document being negotiated](images/5873697252-thumb.jpg)| Customer collaboration over contract negotiation || I
  |Customer||
@@ -71,12 +70,3 @@ Opening slide || We thought we could knock it but we can't|2
 ![the wandering sage](images/6321866162-thumb.jpg)||Strive for balance|V
  ||BOOM|
 ![exit the mime](images/5215595600-thumb.jpg)|@harryharrold & @rupertredington @neontribe||B
-
-
-
-
-
-
-
-
-  
