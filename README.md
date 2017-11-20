@@ -4,7 +4,7 @@ This is the repo where myself and Rupert Redington nailed together our keynote "
 
 It's based on material we presented at Nordevcon 2015, which is kicking around at https://github.com/harryharrold/performance
 
-Major differences are we used Reveal.js for the presentation this time - we actually have a "slide deck" rather than a stack of images we used at Nordevcon, and @marxian wrote a plugin for Reveal.js to make the green screen magic work.
+Major differences are we used Reveal.js for the presentation this time - we actually have a "slide deck" rather than a stack of images we used at Nordevcon, and @marxian wrote a plugin for Reveal.js to make the green screen magic work. (@marxian/reveal-chromalay)
 
 The deck is at http://neontribe.github.io/ad-hoc-manifesto/#/
 
